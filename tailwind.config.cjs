@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'aside': "url(../public/'section-bg.svg)"
+        'aside': "url(/section-bg.svg)",
+        'women': "url(/womens-bg.svg)"
       }
     },
     screens: {
